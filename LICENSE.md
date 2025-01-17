@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+This project includes the following third-party libraries:
+
+- **PyQt5**: GPL v3
+- **pyttsx3**: MIT License
+- **pyaudio**: BSD License
+- **sounddevice**: MIT License
+- **soundfile**: BSD License
+
+Each of these libraries is subject to its respective license terms. Please refer to each library's documentation for detailed license information.
